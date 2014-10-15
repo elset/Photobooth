@@ -1,0 +1,4 @@
+Client ID 	8990b9d2b2c546768088ed54e14ca5b6
+Client Secret 	826ca275f7074dfb9cfc9132be335d0b
+Website URL 	http://instagram.com/curtismarken
+Redirect URI 	http://www.instagram.com
